@@ -1,0 +1,67 @@
+.container {
+  height: 90vh;
+  margin: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 10px;
+  grid-row-gap: 5px;
+  grid-column-gap: 5px;
+  height:90px;
+  width:90px;
+}
+.cell {
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+  padding: 4rem;
+
+}
+.cell-1 {
+  background:orangered;
+}
+.cell-2 {
+  background: NavajoWhite;
+}
+.cell-3 {
+  background: brown;
+}
+.cell-4 {
+  background: navajowhite;
+}
+.cell-5 {
+  background: brown;
+}
+.cell-6 {
+  background: orangered;
+}
+.cell-7 {
+  background: brown;
+}
+.cell-8 {
+  background: orangered;
+}
+.cell-9{
+  
+}
+.cell-10{
+
+}
+.cell-11{
+
+}
+.cell-12{
+
+}
+.cell-13{
+
+}
+.cell-14{
+
+}
+.cell-15{
+
+}
+.cell-16{
+
+}
